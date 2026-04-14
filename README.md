@@ -9,7 +9,7 @@
         <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
         <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
-    <p><b>Step 2: Access The HQ Voice Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</b></p>
+    <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
     <p><b>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</b></p>
         <p>- A. Ephone 1, Ephone 2, Ephone 3</p>
         <p>- B. Mac-Address</p>
