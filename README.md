@@ -64,51 +64,6 @@
             <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
                 <img width="873" height="1587" alt="Screenshot 2026-04-14 193747" src="https://github.com/user-attachments/assets/1cf5437a-c89c-456b-bce7-46938b665268" />
             <p><em>- Successful. This exactly what we want to see and how the guest network should behave.</em></p>
-
-            
-
-
-
-
-
-                
-
-
-
-
-
-                
-
-
-
-
-
-                
-                <img width="868" height="256" alt="Screenshot 2026-04-14 165814" src="https://github.com/user-attachments/assets/b3126a7d-c1d7-479e-ae16-44efa5841035" />
-        <h3>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</h3>
-            <p>- Next, we'll access the HQ-VOICE-RTR CLI and configure the two new ephones.</p>
-                <img width="872" height="881" alt="Screenshot 2026-04-14 165250" src="https://github.com/user-attachments/assets/46cac24e-109f-44b7-bb7f-febc5e03ec58" />
-            <p><em>- After reloading the router, you can see that the uck9 licensing software was installed successfully.</em></p>
-        <h3>Step 4: Test Dialing By Extension Between Each HQ Phone</h3>
-            <p>- Next we will place calls between each phone by dialing the extensions from each phone.</p>
-                <img width="1748" height="880" alt="Screenshot 2026-04-14 170113" src="https://github.com/user-attachments/assets/33df0337-9cc1-4668-be6a-786c0ab90553" />
-                <img width="1739" height="881" alt="Screenshot 2026-04-14 170223" src="https://github.com/user-attachments/assets/f729314f-ac38-45f6-8c33-69096d9c8944" />
-            <p><em>- We are successfully able to call between all 3 ephones.</em></p>
-        <h3>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</h3>
-                <img width="1750" height="879" alt="Screenshot 2026-04-14 170432" src="https://github.com/user-attachments/assets/8eee39c7-1495-4d7f-b29d-6378ab25e786" />
-            <p><em>- Successful.</em></p>
-       
-
-
-
-
-
-
-
-
-
-
-
             
 
 
