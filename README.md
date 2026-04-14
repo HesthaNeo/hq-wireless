@@ -4,7 +4,11 @@
 <h1><u>Milestone 8: HQ Wireless</u></h1>
     <p>Seventh phase, we will install 1 wireless access point for corporate network access via one SSID, and another wireless access point for guest network access via a different SSID.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-    <p><b>Step 1: Connect One Cisco 7960 VOIP Phone To Each HQ Access Switch</b></p>
+    <p><b>Step 1: Install And Configure Corporate Wireless Access</b></p>
+        <p>- A. Ephone 1, Ephone 2, Ephone 3</p>
+        <p>- B. Ephone 1, Ephone 2, Ephone 3</p>
+        <p>- C. Ephone 1, Ephone 2, Ephone 3</p>
+        <p>- D. Ephone 1, Ephone 2, Ephone 3</p>
     <p><b>Step 2: Access The HQ Voice Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</b></p>
     <p><b>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</b></p>
         <p>- A. Ephone 1, Ephone 2, Ephone 3</p>
