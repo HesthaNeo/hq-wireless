@@ -6,7 +6,7 @@
     <h2><strong><u>Configuration Steps</u></strong></h2>
     <p><b>Step 1: Install And Configure Corporate Wireless Access</b></p>
         <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port</p>
-        <p>- B. Ephone 1, Ephone 2, Ephone 3</p>
+        <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- C. Ephone 1, Ephone 2, Ephone 3</p>
         <p>- D. Ephone 1, Ephone 2, Ephone 3</p>
     <p><b>Step 2: Access The HQ Voice Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</b></p>
