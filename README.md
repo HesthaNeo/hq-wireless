@@ -41,6 +41,11 @@
         <h3>Step 2: Install And Configure Guest Wireless Access</h3>
             <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
                 <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
+                <img width="872" height="877" alt="Screenshot 2026-04-14 183054" src="https://github.com/user-attachments/assets/383b69cf-e7a1-44ea-b6f9-05225a30097f" />
+
+
+
+
                 
                 <img width="868" height="256" alt="Screenshot 2026-04-14 165814" src="https://github.com/user-attachments/assets/b3126a7d-c1d7-479e-ae16-44efa5841035" />
         <h3>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</h3>
