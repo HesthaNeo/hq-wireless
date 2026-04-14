@@ -61,6 +61,11 @@
             <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
                 <img width="935" height="891" alt="Screenshot 2026-04-14 185842" src="https://github.com/user-attachments/assets/0d840657-10ad-4e4b-9ec0-6b42f000902b" />
                 <img width="873" height="878" alt="Screenshot 2026-04-14 185819" src="https://github.com/user-attachments/assets/6583ab01-a7f6-41b6-83c1-833cf46f7117" />
+            <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
+                <img width="873" height="1587" alt="Screenshot 2026-04-14 193747" src="https://github.com/user-attachments/assets/1cf5437a-c89c-456b-bce7-46938b665268" />
+            <p><em>- Successful. This exactly what we want to see and how the guest network should behave.</em></p>
+
+            
 
 
 
