@@ -33,6 +33,8 @@
                 <img width="866" height="885" alt="Screenshot 2026-04-14 181922" src="https://github.com/user-attachments/assets/4d696d46-e485-46e1-a112-dbbe977ac824" />
             <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
                 <img width="940" height="883" alt="Screenshot 2026-04-14 182154" src="https://github.com/user-attachments/assets/624c65b9-7f08-4157-98e6-6f0249f51f05" />
+                <img width="867" height="882" alt="Screenshot 2026-04-14 182226" src="https://github.com/user-attachments/assets/b2acf45e-39ca-4fff-a4e0-bb92bfe43910" />
+
 
                 
 
