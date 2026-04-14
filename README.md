@@ -10,7 +10,7 @@
         <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
         <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
-        <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port</p>
+        <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
         <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
         <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
