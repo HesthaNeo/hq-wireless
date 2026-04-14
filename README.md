@@ -38,14 +38,6 @@
                 <img width="871" height="1574" alt="Screenshot 2026-04-14 182528" src="https://github.com/user-attachments/assets/6da25638-1070-4782-bed2-610c6fb3fd56" />
                 <img width="526" height="591" alt="Screenshot 2026-04-14 182621" src="https://github.com/user-attachments/assets/6a484e11-2c30-4624-b74c-2f0d957b64f5" />
             <p><em>- Successful.</em></p>
-
-
-
-
-                
-
-
-                <img width="1440" height="884" alt="Screenshot 2026-04-14 164727" src="https://github.com/user-attachments/assets/376fa77e-2f3a-4c50-8a89-53071c3402db" />
         <h3>Step 2: Install And Configure Guest Wireless Access</h3>
                 <img width="868" height="256" alt="Screenshot 2026-04-14 165814" src="https://github.com/user-attachments/assets/b3126a7d-c1d7-479e-ae16-44efa5841035" />
         <h3>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</h3>
