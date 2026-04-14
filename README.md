@@ -16,7 +16,7 @@
             <p>- III. Starting IP Address</p>
             <p>- IV. Subnet Mask</p>
             <p>- V. Number Of DHCP Users</p>
-        <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
+        <p>- B. On HQ Core Switches 1 And 2 Configure An Access-List That Only Allows DHCP And Internet Traffic For The Guest Network And Blocks All Other Traffic</p>
         <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
         <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
         <p>- E. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port</p>
