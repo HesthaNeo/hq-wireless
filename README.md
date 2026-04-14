@@ -53,6 +53,9 @@
                 <img width="871" height="257" alt="Screenshot 2026-04-14 184759" src="https://github.com/user-attachments/assets/6db75d16-a126-49d8-8f76-2452ae233be1" />
                 <img width="868" height="322" alt="Screenshot 2026-04-14 184856" src="https://github.com/user-attachments/assets/594f4826-35be-4cac-8362-7b4855e3921a" />
             <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
+                <img width="870" height="349" alt="Screenshot 2026-04-14 185146" src="https://github.com/user-attachments/assets/6c1ba806-e766-4a35-abf3-fa62f624c3ff" />
+            <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configure Switchport On HQ Access Switch 3</p>
+
                 
 
 
