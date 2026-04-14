@@ -58,7 +58,11 @@
                 <img width="930" height="887" alt="Screenshot 2026-04-14 185514" src="https://github.com/user-attachments/assets/4869c4f1-bfe3-4efc-846e-57bb50a0620a" />
             <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
                 <img width="870" height="913" alt="Screenshot 2026-04-14 185635" src="https://github.com/user-attachments/assets/50978213-3eee-45bc-bf6a-9ed86fce33df" />
-            <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>            
+            <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
+                <img width="935" height="891" alt="Screenshot 2026-04-14 185842" src="https://github.com/user-attachments/assets/0d840657-10ad-4e4b-9ec0-6b42f000902b" />
+                <img width="873" height="878" alt="Screenshot 2026-04-14 185819" src="https://github.com/user-attachments/assets/6583ab01-a7f6-41b6-83c1-833cf46f7117" />
+
+
 
 
 
