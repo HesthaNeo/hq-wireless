@@ -49,6 +49,13 @@
             <p>- C. On The HQ Core Switches 1 And 2 Apply The New Access-List To The VLAN 172 Interface</p>
                 <img width="871" height="287" alt="Screenshot 2026-04-14 184435" src="https://github.com/user-attachments/assets/5015bf7d-9895-434c-9902-6745e03bc5b4" />
                 <img width="871" height="255" alt="Screenshot 2026-04-14 184544" src="https://github.com/user-attachments/assets/2fe5f5b5-9eff-4114-a620-1f3364d28285" />
+            <p>- D. On The HQ Core Switch 1 And 2 Configure IP Helper In The VLAN 172 Interface</p>
+                <img width="871" height="257" alt="Screenshot 2026-04-14 184759" src="https://github.com/user-attachments/assets/6db75d16-a126-49d8-8f76-2452ae233be1" />
+                <img width="868" height="322" alt="Screenshot 2026-04-14 184856" src="https://github.com/user-attachments/assets/594f4826-35be-4cac-8362-7b4855e3921a" />
+            <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
+                
+
+
 
 
 
