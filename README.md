@@ -11,6 +11,11 @@
         <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
         <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
+            <p>- I. Default Gateway</p>
+            <p>- II. DNS Server</p>
+            <p>- III. Starting IP Address</p>
+            <p>- IV. Subnet Mask</p>
+            <p>- V. Number Of DHCP Users</p>
         <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
         <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
