@@ -45,6 +45,8 @@
             <p>- B. On HQ Core Switches 1 And 2 Configure An Access-List That Only Allows DHCP And Internet Traffic For The Guest Network And Blocks All Other Traffic</p>
                 <p>- For this step, we will configure an ACL and DHCP helper on both core switches to prepare for guest wireless access.</p>
                 <img width="872" height="494" alt="Screenshot 2026-04-14 183929" src="https://github.com/user-attachments/assets/974d50d0-13e0-4363-9b1c-aa05f8c7be7f" />
+                <img width="864" height="498" alt="Screenshot 2026-04-14 184215" src="https://github.com/user-attachments/assets/8f662444-589e-407a-a211-fb85be8b695e" />
+
                 
 
 
