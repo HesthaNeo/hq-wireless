@@ -23,7 +23,7 @@
         <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configure Switchport On HQ Access Switch 3</p>
         <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>   
-        <p>- I. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
+        <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
     <p><b>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</b></p>
         <p>- A. Ephone 1, Ephone 2, Ephone 3</p>
         <p>- B. Mac-Address</p>
