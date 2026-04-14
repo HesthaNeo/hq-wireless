@@ -8,7 +8,7 @@
         <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port</p>
         <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
-        <p>- D. Once The nNew Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
+        <p>- D. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
         <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
             <p>- I. Default Gateway</p>
@@ -24,25 +24,7 @@
         <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>   
         <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
-    <p><b>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</b></p>
-        <p>- A. Ephone 1, Ephone 2, Ephone 3</p>
-        <p>- B. Mac-Address</p>
-        <p>- C. Phone Type</p>
-        <p>- D. Button 1</p>
-    <p><b>Step 4: Test Dialing By Extension Between Each HQ Phone</b></p>
-    <p><b>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</b></p>
-    <p><b>Step 6: Test Inbound Dialing To HQ External Phone Number(s) <em>(Lab Configuration Not Supported)</em></b></p>
-    <p><b>Step 7: On The HQ Server Access The DHCP Services And Configure DHCP For The Data Network</b></p>
-        <p>- A. Default Gateway</p> 
-        <p>- B. DNS Server</p>
-        <p>- C. Starting IP Address</p>
-        <p>- D. Subnet Mask</p>
-        <p>- E. Number Of DHCP Users</p>
-    <p><b>Step 8: Connect A Host Directly To Each Of The Three Cisco 7960 VoIP Phones That Were Just Connected To The Network</b></p>
-    <p><b>Step 9: Test Each Host By Pinging Around The HQ Network From Each Host And Between Each Host</b></p>
-    <p><b>Step 10: Test IP Connectivity To The Internet By Pinging Google Server 8.8.8.8</b></p>
-    <p><b>Step 11: Test DNS And Website Connectivity By Using The Web Browser On Each Host To Access Www.Google.Com</b></p>
-    <h2><strong><u>Implementation</u></strong></h2>
+        <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Connect One Cisco 7960 VOIP Phone To Each HQ Access Switch</h3>
             <p>- First, we'll connect and configure two more phones. We'll add two 7960 IP phones to the network in the HQ network topology. We'll place one phone under HQ-ASW2 and label it "x1002" and the other phone directly under HQ-ASW3 and label it "x1003".</p>
                 <img width="1440" height="884" alt="Screenshot 2026-04-14 164727" src="https://github.com/user-attachments/assets/376fa77e-2f3a-4c50-8a89-53071c3402db" />
