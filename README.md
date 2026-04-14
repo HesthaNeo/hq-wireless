@@ -39,6 +39,9 @@
                 <img width="526" height="591" alt="Screenshot 2026-04-14 182621" src="https://github.com/user-attachments/assets/6a484e11-2c30-4624-b74c-2f0d957b64f5" />
             <p><em>- Successful.</em></p>
         <h3>Step 2: Install And Configure Guest Wireless Access</h3>
+            <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
+                <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
+                
                 <img width="868" height="256" alt="Screenshot 2026-04-14 165814" src="https://github.com/user-attachments/assets/b3126a7d-c1d7-479e-ae16-44efa5841035" />
         <h3>Step 3: On The HQ Voice Router Configure The Three Ephones That Were Just Connected</h3>
             <p>- Next, we'll access the HQ-VOICE-RTR CLI and configure the two new ephones.</p>
