@@ -28,7 +28,12 @@
         <h3>Step 1: Install And Configure Corporate Wireless Access</h3>
             <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port.</p>
             <p>- First, we will install a wireless access point to connect corporate wireless users to the data network.</p>
-                <img width="939" height="884" alt="Screenshot 2026-04-14 181638" src="https://github.com/user-attachments/assets/ddb4e5c1-6c5b-40ee-a2c3-4494b93e067a" />
+                <img width="939" height="884" alt="Screenshot 2026-04-14 181638" src="https://github.com/user-attachments/assets/ddb4e5c1-6c5b-40ee-a2c3-4494b93e067a" />\
+            <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
+                <img width="866" height="885" alt="Screenshot 2026-04-14 181922" src="https://github.com/user-attachments/assets/4d696d46-e485-46e1-a112-dbbe977ac824" />
+            <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
+                
+
 
                 <img width="1440" height="884" alt="Screenshot 2026-04-14 164727" src="https://github.com/user-attachments/assets/376fa77e-2f3a-4c50-8a89-53071c3402db" />
         <h3>Step 2: Install And Configure Guest Wireless Access</h3>
