@@ -26,7 +26,10 @@
         <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
         <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Install And Configure Corporate Wireless Access</h3>
-            <p>- First, we'll connect and configure two more phones. We'll add two 7960 IP phones to the network in the HQ network topology. We'll place one phone under HQ-ASW2 and label it "x1002" and the other phone directly under HQ-ASW3 and label it "x1003".</p>
+            <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port.</p>
+            <p>- First, we will install a wireless access point to connect corporate wireless users to the data network.</p>
+                <img width="939" height="884" alt="Screenshot 2026-04-14 181638" src="https://github.com/user-attachments/assets/ddb4e5c1-6c5b-40ee-a2c3-4494b93e067a" />
+
                 <img width="1440" height="884" alt="Screenshot 2026-04-14 164727" src="https://github.com/user-attachments/assets/376fa77e-2f3a-4c50-8a89-53071c3402db" />
         <h3>Step 2: Install And Configure Guest Wireless Access</h3>
                 <img width="868" height="256" alt="Screenshot 2026-04-14 165814" src="https://github.com/user-attachments/assets/b3126a7d-c1d7-479e-ae16-44efa5841035" />
