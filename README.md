@@ -5,7 +5,7 @@
     <p>Seventh phase, we will install 1 wireless access point for corporate network access via one SSID, and another wireless access point for guest network access via a different SSID.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
     <p><b>Step 1: Install And Configure Corporate Wireless Access</b></p>
-        <p>- A. Ephone 1, Ephone 2, Ephone 3</p>
+        <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port</p>
         <p>- B. Ephone 1, Ephone 2, Ephone 3</p>
         <p>- C. Ephone 1, Ephone 2, Ephone 3</p>
         <p>- D. Ephone 1, Ephone 2, Ephone 3</p>
